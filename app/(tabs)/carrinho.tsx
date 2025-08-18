@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { Alert, FlatList, StyleSheet, Text, TouchableOpacity, View } from 'react-native';
 
-export default function CheckoutScreen() {
+export default function CheckoutScreen(itensCarrinho = {}) {
   const [items, setItems] = useState([
     { id: '1', image: require('@/assets/images/Headset_R$459_99.jpg'), name: 'Headset Gamer Branco', price: 459.99 },
     { id: '2', image: require('@/assets/images/Mousepad_R$219_99.jpg'), name: 'Mousepad Gamer', price: 219.99 },
