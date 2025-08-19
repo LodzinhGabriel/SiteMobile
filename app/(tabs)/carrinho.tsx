@@ -3,9 +3,9 @@ import { Alert, FlatList, StyleSheet, Text, TouchableOpacity, View } from 'react
 
 export default function CheckoutScreen(itensCarrinho = {}) {
   const [items, setItems] = useState([
-    { id: '1', image: require('@/assets/images/Headset_459_99.jpg'), name: 'Headset Gamer Branco', price: 459.99 },
-    { id: '2', image: require('@/assets/images/Mousepad_219_99.jpg'), name: 'Mousepad Gamer', price: 219.99 },
-    { id: '3', image: require('@/assets/images/Mouse_459_99.jpg'), name: 'Mouse Gamer Branco', price: 459.99 },
+    { id: '1', image: 'https://raw.githubusercontent.com/LodzinhGabriel/SiteMobile/refs/heads/master/assets/images/Headset_459_99.jpg', name: 'Headset Gamer Branco', price: 459.99 },
+    { id: '2', image: 'https://raw.githubusercontent.com/LodzinhGabriel/SiteMobile/refs/heads/master/assets/images/Mousepad_219_99.jpg', name: 'Mousepad Gamer', price: 219.99 },
+    { id: '3', image: 'https://raw.githubusercontent.com/LodzinhGabriel/SiteMobile/refs/heads/master/assets/images/Mouse_459_99.jpg', name: 'Mouse Gamer Branco', price: 459.99 },
   ]);
 
   const total = items.reduce((sum, item) => sum + item.price, 0);

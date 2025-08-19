@@ -18,7 +18,14 @@ export default function TabLayout() {
       }} />
       <Tabs.Screen 
       name="carrinho" 
-      options={{ title: 'carrinho',
+      options={{ title: 'Carrinho',
+        tabBarIcon: ({focused , color}) => <Ionicons 
+        name={focused ? "cart-sharp" : "cart-outline"} 
+        size={30} />
+       }} />,
+       <Tabs.Screen 
+      name="compra" 
+      options={{ title: 'Compra',
         tabBarIcon: ({focused , color}) => <Ionicons 
         name={focused ? "cart-sharp" : "cart-outline"} 
         size={30} />

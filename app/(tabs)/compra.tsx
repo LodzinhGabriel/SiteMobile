@@ -7,7 +7,7 @@ export default function ProductScreen() {
     name: 'PC Gamer Branco',
     price: 11799.96,
     description: 'Tênis leve, respirável e extremamente confortável para o dia a dia.',
-    image: require('@/assets/images/PC_11_799_96.jpg') // local
+    image: 'https://raw.githubusercontent.com/LodzinhGabriel/SiteMobile/refs/heads/master/assets/images/PC_11_799_96.jpg' // local
   };
 
   function handleBuy() {
@@ -17,7 +17,7 @@ export default function ProductScreen() {
   return (
     <ScrollView contentContainerStyle={styles.container}>
       <Image 
-        source={product.image} 
+        source={{uri: product.image}} 
         style={styles.image} 
         resizeMode="contain" 
       />
