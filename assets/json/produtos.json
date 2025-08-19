@@ -3,210 +3,210 @@
         {
             "id": 1,
             "nome": "Headset Gamer JBL Quantum 100M2, Drivers 40mm, Preto",
-            "imagem": "Headset_R$159_99.jpg",
+            "imagem": "../../assets/images/Headset_159_99.jpg",
             "categoria": "Headset",
             "preco": 159.99
         },
         {
             "id": 2,
             "nome": "Headset Gamer Mancer Quartz, Drivers 50mm, Preto",
-            "imagem": "Headset_R$179_9.jpg",
+            "imagem": "../../assets/images/Headset_179_9.jpg",
             "categoria": "Headset",
             "preco": 179.99
         },
         {
             "id": 3,
             "nome": "Headset Gamer Logitech G335 Preto",
-            "imagem": "Headset_R$459_99.jpg",
+            "imagem": "../../assets/images/Headset_459_99.jpg",
             "categoria": "Headset",
             "preco": 459.99
         },
         {
             "id": 4,
             "nome": "Headset Edifier W830NB, WIreless, Driver 40mm, Branco",
-            "imagem": "Headset_R$619_99.jpg",
+            "imagem": "../../assets/images/Headset_619_99.jpg",
             "categoria": "Headset",
             "preco": 619.99
         },
         {
             "id": 5,
             "nome": "Headset Gamer Logitech Pro X Preto",
-            "imagem": "Headset_R$899_99.jpg",
+            "imagem": "../../assets/images/Headset_899_99.jpg",
             "categoria": "Headset",
             "preco": 899.99
         },
         {
             "id": 6,
             "nome": "Monitor Gamer LG 24MS500-B, 24 Pol, IPS, FHD, 5ms, 100Hz, HDMI",
-            "imagem": "Monitor_R$599_99.jpg",
+            "imagem": "../../assets/images/Monitor_599_99.jpg",
             "categoria": "Monitor",
             "preco": 599.99
         },
         {
             "id": 7,
             "nome": "Monitor Gamer Gigabyte GS27FA, 27 Pol, IPS, FHD, 1ms, 180Hz, HDMI",
-            "imagem": "Monitor_R$899_99.jpg",
+            "imagem": "../../assets/images/Monitor_899_99.jpg",
             "categoria": "Monitor",
             "preco": 899.99
         },
         {
             "id": 8,
             "nome": "Monitor Gamer LG, 24 Pol, IPS, FHD, 1ms, 180Hz, FreeSync,G-Sync, HDMI",
-            "imagem": "Monitor_R$999_99.jpg",
+            "imagem": "../../assets/images/Monitor_999_99.jpg",
             "categoria": "Monitor",
             "preco": 999.99
         },
         {
             "id": 9,
             "nome": "Monitor Gamer Samsung Odyssey G3, 27 Pol, VA, FHD, 1ms, 180Hz, FreeSync, HDMI",
-            "imagem": "Monitor_R$1_099_99.jpg",
+            "imagem": "../../assets/images/Monitor_1_099_99.jpg",
             "categoria": "Monitor",
             "preco": 1099.99
         },
         {
             "id": 10,
             "nome": "Monitor Ultra Wide LG 34WP550, 34, IPS, Full HD, 5ms, 75Hz, AMD FreeSync, HDMI",
-            "imagem": "Monitor_R$1_699_99.jpg",
+            "imagem": "../../assets/images/Monitor_1_699_99.jpg",
             "categoria": "Monitor",
             "preco": 1699.99
         },
         {
             "id": 11,
             "nome": "Mouse Office K-Mex MO-D433, 1000DPI, 3 Botoes, Preto",
-            "imagem": "Mouse_R$14_99.jpg",
+            "imagem": "../../assets/images/Mouse_14_99.jpg",
             "categoria": "Mouse",
             "preco": 14.99
         },
         {
             "id": 12,
             "nome": "Mouse Gamer Redragon Cypher, RGB, 12800DPI, 7 Botoes, Preto",
-            "imagem": "Mouse_R$109_99.jpg",
+            "imagem": "../../assets/images/Mouse_109_99.jpg",
             "categoria": "Mouse",
             "preco": 109.99
         },
         {
             "id": 13,
             "nome": "Mouse Gamer Havit MS966WB, RGB, Wireless, 10000DPI, 7 Botoes, Preto",
-            "imagem": "Mouse_R$214_99.jpg",
+            "imagem": "../../assets/images/Mouse_214_99.jpg",
             "categoria": "Mouse",
             "preco": 214.99
         },
         {
             "id": 14,
             "nome": "Mouse Gamer Cougar Revenger Pro 4K, Wireless, 26000DPI, 5 Botoes, Branco",
-            "imagem": "Mouse_R$459_99.jpg",
+            "imagem": "../../assets/images/Mouse_459_99.jpg",
             "categoria": "Mouse",
             "preco": 459.99
         },
         {
             "id": 15,
             "nome": "Mouse Gamer Benq Zowie FK2-DW, 3200DPI, 7 Botoes, Wireless, Preto",
-            "imagem": "Mouse_R$1_199_99.jpg",
+            "imagem": "../../assets/images/Mouse_1_199_99.jpg",
             "categoria": "Mouse",
             "preco": 1199.99
         },
         {
             "id": 16,
             "nome": "Mousepad Gamer ReDragon Flick L 450x400x4mm",
-            "imagem": "Mousepad_R$59_99.jpg",
+            "imagem": "../../assets/images/Mousepad_59_99.jpg",
             "categoria": "Mousepad",
             "preco": 59.99
         },
         {
             "id": 17,
             "nome": "Mousepad Gamer Corsair MM300 360x300x3mm Medio",
-            "imagem": "Mousepad_R$99_99.jpg",
+            "imagem": "../../assets/images/Mousepad_99_99.jpg",
             "categoria": "Mousepad",
             "preco": 99.99
         },
         {
             "id": 18,
             "nome": "Mousepad Gamer Redragon Epeius RGB 358x265x11mm",
-            "imagem": "Mousepad_R$139_99.jpg",
+            "imagem": "../../assets/images/Mousepad_139_99.jpg",
             "categoria": "Mousepad",
             "preco": 139.99
         },
         {
             "id": 19,
             "nome": "Mousepad Gamer Logitech G740, Grande, 460x400x5mm, Preto",
-            "imagem": "Mousepad_R$219_99.jpg",
+            "imagem": "../../assets/images/Mousepad_219_99.jpg",
             "categoria": "Mousepad",
             "preco": 219.99
         },
         {
             "id": 20,
             "nome": "Mousepad Zowie GTF-X 470x390x3,5mm",
-            "imagem": "Mousepad_R$289_99.jpg",
+            "imagem": "../../assets/images/Mousepad_289_99.jpg",
             "categoria": "Mousepad",
             "preco": 289.99
         },
         {
             "id": 21,
             "nome": "PC Gamer Uller, Intel i5-14400, Radeon RX 580 8GB, 16GB DDR4, SSD 1TB",
-            "imagem": "PC_R$3_647_83.jpg",
+            "imagem": "../../assets/images/PC_3_647_83.jpg",
             "categoria": "PC",
             "preco": 3647.43
         },
         {
             "id": 22,
             "nome": "PC Gamer Oeagrus II, AMD Ryzen 5 5500X3D, Radeon RX 9060 XT 8GB, 16GB DDR4, SSD M.2",
-            "imagem": "PC_R$5_548_98.jpg",
+            "imagem": "../../assets/images/PC_5_548_98.jpg",
             "categoria": "PC",
             "preco": 5548.98
         },
         {
             "id": 23,
             "nome": "PC Gamer Mancer, AMD Ryzen 5 7600, Radeon RX 9060 XT 16GB, 32GB DDR5, SSD M.2 1TB",
-            "imagem": "PC_R$6_599_99.jpg",
+            "imagem": "../../assets/images/PC_6_599_99.jpg",
             "categoria": "PC",
             "preco": 6599.99
         },
         {
             "id": 24,
             "nome": "PC Gamer Zelus IX, Intel i7-14700F, Radeon RX 9070 16GB, 16GB DDR5, SSD M.2 1TB",
-            "imagem": "PC_R$10_988_46.jpg",
+            "imagem": "../../assets/images/PC_10_988_46.jpg",
             "categoria": "PC",
             "preco": 10988.46
         },
         {
             "id": 25,
             "nome": "PC Gamer Hanuman VIII, AMD Ryzen 5 7600, GeForce RTX 5070 Ti 16GB, 32GB DDR5, SSD M.2 1TB",
-            "imagem": "PC_R$11_799_96.jpg",
+            "imagem": "../../assets/images/PC_11_799_96.jpg",
             "categoria": "PC",
             "preco": 11799.96
         },
         {
             "id": 26,
             "nome": "Teclado Gamer Redragon Shiva Pro 98, RGB, Membrana, Wireless, Preto",
-            "imagem": "Teclado_R$165_99.jpg",
+            "imagem": "../../assets/images/Teclado_165_99.jpg",
             "categoria": "Teclado",
             "preco": 165.99
         },
         {
             "id": 27,
             "nome": "Teclado Mecanico Redragon Phantom, RGB, Switch Marrom, Preto",
-            "imagem": "Teclado_R$209_99.jpg",
+            "imagem": "../../assets/images/Teclado_209_99.jpg",
             "categoria": "Teclado",
             "preco": 209.99
         },
         {
             "id": 28,
             "nome": "Teclado Magnetico Redragon Kumara Pro, RGB, Switch Marrom, Preto",
-            "imagem": "Teclado_R$239_99.jpg",
+            "imagem": "../../assets/images/Teclado_239_99.jpg",
             "categoria": "Teclado",
             "preco": 239.99
         },
         {
             "id": 29,
             "nome": "Teclado Mecanico Gamer Redragon Dark Avenger, Rainbow, Switch Brown, Branco e Rosa",
-            "imagem": "Teclado_R$289_99.jpg",
+            "imagem": "../../assets/images/Teclado_289_99.jpg",
             "categoria": "Teclado",
             "preco": 289.99
         },
         {
             "id": 30,
             "nome": "Teclado Mecanico Razer Ornata V3, RGB, TKL, Switch de Membrana Mecanica Razer, Preto",
-            "imagem": "Teclado_R$749_99.jpg",
+            "imagem": "../../assets/images/Teclado_749_99.jpg",
             "categoria": "Teclado",
             "preco": 749.99
         }
